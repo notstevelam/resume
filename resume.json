@@ -21,6 +21,13 @@
       "area": "Multimedia Design & Production",
       "studyType": "Diploma",
       "institution": "Humber College"
+    },
+    {
+      "endDate": "2006-01-01",
+      "startDate": "2007-01-01",
+      "area": "Digital Web Studio",
+      "studyType": "Certificate",
+      "institution": "Algonquin College"
     }
   ],
   "skills": [
@@ -76,8 +83,8 @@
       "name": "Rethink",
       "location": "Toronto",
       "position": "Digital Design & Developer",
-      "startDate": "2012",
-      "endDate": "2024",
+      "startDate": "2012-05",
+      "endDate": "2024-07",
       "highlights": [
         "Helped rebuild existing architecture for A&W sites using modern web practices and testing for AODA compliance.",
         "Increased response time and site speed by 30% utilizing various practices (code-splitting / storage db caching / bundle optimization)", 
@@ -93,11 +100,12 @@
       "name": "Humber College",
       "location": "Toronto",
       "position": "Web Developer",
-      "startDate": "2011-01-01",
-      "endDate": "2012-01-01",
+      "startDate": "2011-01",
+      "endDate": "2012-01",
       "highlights": [
         "Developed custom Wordpress theme utilizing Bootstrap framework and Sass for responsive design.",
-        "Optimized with Yoast for site functionality and SEO / accessibility."
+        "Optimized with Yoast for site functionality and SEO / accessibility.",
+        "Suggested and implemented SQL backup functionality."
       ]
     }
   ],
