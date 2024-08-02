@@ -12,7 +12,8 @@
     "location": {
       "city": "Melbourne",
       "countryCode": "AU"
-    },
+    }
+  },
   "education": [
     {
       "endDate": "2010-12-12",
