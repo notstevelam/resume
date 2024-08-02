@@ -16,15 +16,15 @@
   },
   "education": [
     {
-      "endDate": "2012-12-12",
-      "startDate": "2010-02-12",
+      "endDate": "2012-06-01",
+      "startDate": "2010-09-01",
       "area": "Multimedia Design & Production",
       "studyType": "Diploma",
       "institution": "Humber College"
     },
     {
-      "endDate": "2006-01-01",
-      "startDate": "2007-01-01",
+      "endDate": "2007-01-01",
+      "startDate": "2006-01-01",
       "area": "Digital Web Studio",
       "studyType": "Certificate",
       "institution": "Algonquin College"
@@ -79,7 +79,7 @@
   "work": [
     {
       "summary": "Developed various multi-language major brand sites in a team environment while adapting to the rapidly changing front-end tech landscape.",
-      "website": "https://rethinkideas.com/",
+      "website": "",
       "name": "Rethink",
       "location": "Toronto",
       "position": "Digital Design & Developer",
