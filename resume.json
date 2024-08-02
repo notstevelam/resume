@@ -82,7 +82,9 @@
         "Helped rebuild existing architecture for A&W sites using modern web practices and testing for AODA compliance.",
         "Increased response time and site speed by 30% utilizing various practices (code-splitting / storage db caching / bundle optimization)", 
         "Maintained site with weekly updates with accompanying Eblast development with React Mail and testing with Litmus.", 
-        "Complete documentation (Prerequisites / Configuration details / Installation tutorial / API info / potential troubleshooting)"
+        "Complete documentation (Prerequisites / Configuration details / Installation tutorial / API info / potential troubleshooting)",
+        "Oversaw and delegated design tasks to interns for the design and development of Molson Canadian #ThisIsLive music site platform.",
+        "Building and maintaining Molson Coors sites (Molson Canadian, Molson 67, Coors Light, Creemore Springs, Rickards) utilizing a variety of tooling / CMS’s (Sitecore, Wordpress, Drupal, Grunt, Gulp, Webpack)"
       ]
     },
     {
@@ -97,36 +99,6 @@
         "Developed custom Wordpress theme utilizing Bootstrap framework and Sass for responsive design.",
         "Optimized with Yoast for site functionality and SEO / accessibility."
       ]
-    },
-    {
-      "highlights": [
-        "Worked with Postgres, Redis and Dynamodb for storage.",
-        "Hosted on a mixture of Heroku Apps and EC2 servers.",
-        "Caching by Fastly and Cloudflare",
-        "Hybrid app supported on all platforms"
-      ],
-      "summary": "Built a very large and complex React / Redux application. It works on all platforms and has IOS/Android builds due to it being a PWA. (wrapped it in React Native though only implementing a WebView)",
-      "website": "https://listium.com",
-      "pinned": true,
-      "name": "Listium",
-      "position": "Developer",
-      "startDate": "2016-01-01",
-      "endDate": "2018-01-01"
-    },
-    {
-      "highlights": [
-        "Millions of sites use the CDN in production",
-        "Larger market share than Yahoo's, Microsoft's and Google's javascript content distribution networks",
-        "We serve hundreds of billions request a month",
-        "Contains over 3000 popular Javascript libraries",
-        "Millions of developers visit the site per year"
-      ],
-      "pinned": true,
-      "summary": "Following Google's CDN for jQuery, we decided to start a CDN for the less popular Javascript frameworks. The CDN is community moderated and open source on GitHub. We secured a partnership with Cloudflare who now supports the infrastructure.",
-      "website": "http://www.cdnjs.com",
-      "name": "Cdnjs",
-      "position": "Co-Founder",
-      "startDate": "2011-01-08"
     }
   ],
   "interests": [
