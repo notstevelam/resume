@@ -6,7 +6,7 @@
     "name": "Steve Lam",
     "label": "Web Developer",
     "image": "",
-    "summary": "Front-End Developer with 10 years of experience in an agency environment, creating and maintaining responsive web applications for major brands. Proficient in modern web technologies and proven ability to adapt to self-starting and collaborative environments.",
+    "summary": "Front-End Developer with 10 years of experience in an agency environment, creating and maintaining responsive web applications for major brands. Proficient in modern web technologies with an eye for design and proven ability to adapt to self-starting and collaborative environments.",
     "website": "https://stevelam.ca",
     "email": "me@stevelam.ca",
     "location": {
@@ -34,9 +34,9 @@
     {
       "keywords": [
         "HTML",
-        "CSS",
+        "CSS / Tailwind / Sass",
         "React",
-        "Sass / jQuery / Bootstrap",
+        "jQuery / Bootstrap",
         "AODA Web Compliance",
         "PHP",
         "Adobe Photoshop / AfterEffects",
