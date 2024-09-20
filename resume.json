@@ -88,8 +88,8 @@
       "endDate": "2024-07",
       "highlights": [
         "Helped rebuild existing architecture for A&W sites using modern web practices and testing for AODA compliance.",
-        "Increased response time and site speed by 30% utilizing various practices (code-splitting / storage db caching / bundle optimization)", 
-        "Maintained site with weekly updates with accompanying Eblast development with React Mail and testing with Litmus.", 
+        "Increased response time and site speed by 30% utilizing various practices (code-splitting / storage db caching / bundle optimization)",
+        "Maintained site with weekly updates with accompanying Eblast development with React Mail and testing with Litmus.",
         "Complete documentation (Prerequisites / Configuration details / Installation tutorial / API info / potential troubleshooting)",
         "Oversaw and delegated design tasks to interns for the design and development of Molson Canadian #ThisIsLive music site platform.",
         "Building and maintaining Molson Coors sites (Molson Canadian, Molson 67, Coors Light, Creemore Springs, Rickards) utilizing a variety of tooling / CMS’s (Sitecore, Wordpress, Drupal, Grunt, Gulp, Webpack)"
